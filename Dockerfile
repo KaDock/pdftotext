@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:latest
 
 MAINTAINER Kalle R. Møller <docker@k-moeller.dk>
 
