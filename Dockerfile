@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-MAINTAINER Kalle R. Møller <docker@k-moeller.dk>
+MAINTAINER Kalle M. Aagaard <docker@k-moeller.dk>
 
 RUN apk add --no-cache poppler-utils
 
